@@ -23,34 +23,29 @@ GMAIL_PORT = '587'
 # AKASH BANER
 def artwork():
     print("\n")
-    print(RAND + '''
- ▄▄▄▄▄▄▄▄▄▄▄  ▄▄       ▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄                
-▐░░░░░░░░░░░▌▐░░▌     ▐░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌               
-▐░█▀▀▀▀▀▀▀▀▀ ▐░▌░▌   ▐░▐░▌▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀ ▐░▌               
-▐░▌          ▐░▌▐░▌ ▐░▌▐░▌▐░▌       ▐░▌     ▐░▌     ▐░▌               
-▐░▌ ▄▄▄▄▄▄▄▄ ▐░▌ ▐░▐░▌ ▐░▌▐░█▄▄▄▄▄▄▄█░▌     ▐░▌     ▐░▌               
-▐░▌▐░░░░░░░░▌▐░▌  ▐░▌  ▐░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░▌               
-▐░▌ ▀▀▀▀▀▀█░▌▐░▌   ▀   ▐░▌▐░█▀▀▀▀▀▀▀█░▌     ▐░▌     ▐░▌               
-▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     ▐░▌               
-▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░▌       ▐░▌ ▄▄▄▄█░█▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄      
-▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     
- ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  v2.0   
-          [!] thank you for help me : Mahad [!]            
-⚠️WARNING : I AM NOT RESPONSIBLE FOR THE MISUSE OF THIS TOOL !
-                  [😡]gmail id HACK[😡]
-
-   *  Author  : Akash Black Hat
-   *  GitHub  : https://github.com/akashblackhat
-   *  whatsapp: +91 8389020949
-   *  YouTub  : TECHNICAL AKASH SKILLS
-   *  FacebooK: https://shorturl.at/MO019
-   *  License : MIT         
-   *  Gmail   : akashram8090as@gmail.com
-   *  password: passworld.txt
-
-    ''')
-
-
+    print('''\033[32m
+      ██████╗  ███╗   ███╗  █████╗  ██╗ ██╗              
+     ██╔════╝  ████╗ ████║ ██╔══██╗ ██║ ██║            
+     ██║  ███╗ ██╔████╔██║ ███████║ ██║ ██║   
+     ██║   ██║ ██║╚██╔╝██║ ██╔══██║ ██║ ██║            
+     ╚██████╔╝ ██║ ╚═╝ ██║ ██║  ██║ ██║ ███████╗       
+      ╚═════╝  ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚══════╝  v2.1  
+ ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗ 
+ ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║████╗  ██║██╔════╝
+ ███████║███████║██║     █████╔╝ ██║██╔██╗ ██║██║  ███╗
+ ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║
+ ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝
+ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝        
+⚠️WARNING:I AM NOT RESPONSIBLE FOR THE MISUSE OF THIS TOOL !
+*******************************************************
+* Author   : Akash Black Hat
+* GitHub   : https://github.com/akashblackhat
+* whatsapp : +91 8389020949
+* YouTub   : TECHNICAL AKASH SKILLS
+* Instagram: akashblackhat
+* password : passworld.txt
+*************USE VPN OR TOR SERVICE********************
+''')
 artwork()
 smtp = smtplib.SMTP("smtp.gmail.com", GMAIL_PORT)
 
