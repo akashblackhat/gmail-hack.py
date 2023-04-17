@@ -40,7 +40,6 @@ def artwork():
 *******************************************************
 * Author   : Akash Black Hat
 * GitHub   : https://github.com/akashblackhat
-* whatsapp : +91 8389020949
 * YouTub   : TECHNICAL AKASH SKILLS
 * Instagram: akashblackhat
 * password : passworld.txt
