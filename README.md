@@ -1,7 +1,6 @@
 IMM# kali linux
 Gmail id brut force attack
 
-![Screenshot 2022-09-18 001808](https://user-images.githubusercontent.com/88341460/190890974-decd3858-656e-486f-afd8-c1ddb15da0e7.jpg)
 
            apt update
            apt install python
@@ -11,7 +10,6 @@ Gmail id brut force attack
            cd gmail-hack.py
            python gmail-hack.py
 # termux
-![download](https://user-images.githubusercontent.com/88341460/190891307-407dbf26-03cd-42aa-a705-062b208581af.png)
 
          apt update
          apt install python -y
@@ -56,7 +54,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **hacking tools developer and android malware virous & has password cracker**
 
-- 📫 How to reach me **Akashram8090as@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I Am Ethical Hacker**
 -                                                                                                                                                                                                                                                                                                                                         
