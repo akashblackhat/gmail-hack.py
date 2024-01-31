@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![красотищатокакая-code](https://user-images.githubusercontent.com/88341460/189535591-84f204da-08af-4989-821f-e6608902a4a1.gif)                 ![bitcoin-coin](https://user-images.githubusercontent.com/88341460/189537491-36fbdb9c-165b-4600-ac5b-92a070b8e4f7.gif)
 
 
-<h1 align="center">Hi 👋,Developer Akash</h1>
+<h1 align="center">Hi 👋,Developer Rasintha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
